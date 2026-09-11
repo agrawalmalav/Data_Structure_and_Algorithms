@@ -1,10 +1,38 @@
-# DSA
-## Data Structures and Algorithms Questions
+# Data Structures and Algorithms
 
-Want to start a journey through Data Structures and Algorithms but are overwhelmed where to start and how to much? Scared to see hundreds on questions on different websites?
+An archived collection of Python implementations for common data-structure, algorithm and complexity-analysis problems.
 
-This repo is a compilation of the first set of questions you must try in almost all the demanded topics in DSA. 
+This repository reflects earlier problem-solving practice and is kept primarily as a reference archive. Individual folders contain problem statements, notes and Python solutions organised by topic.
 
-You are most welcome to submit alternate/ better solutions. You can also submit other questions. 
+## Topics covered
 
+Examples include:
 
+- arrays and lists
+- complexity analysis
+- searching and sorting
+- recursion
+- linked structures
+- stacks and queues
+- trees
+- hash maps
+- common interview-style array problems
+
+Many exercises include a local `readme.md` alongside the implementation to capture the problem statement and approach.
+
+## Repository style
+
+```text
+Topic/
+  Problem Name/
+    solution.py
+    readme.md
+```
+
+The emphasis is on readable Python implementations and understanding the underlying approach rather than framework-specific tooling.
+
+## Status
+
+This repository is maintained as a historical learning archive and is not one of my actively developed AI/ML projects.
+
+For current work, see the repositories pinned on my GitHub profile.
